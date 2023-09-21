@@ -1,0 +1,43 @@
+body {
+  background: #feffdf;
+  color: #668ba4;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 auto;
+}
+
+a {
+  color: #97cba9;
+  text-decoration: none;
+}
+
+img {
+  box-shadow: 10px;
+  width: 250px;
+  margin: 20px 15px;
+}
+
+.croissant-description {
+  margin: 20px 80px;
+}
+
+.email-link {
+  color: #668ba4;
+}
+
+.navigations {
+  display: flex;
+  justify-content: center;
+}
+
+.navigations a {
+  background-color: #668ba4;
+  color: white;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 20px 15px;
+  text-decoration: none;
+}
